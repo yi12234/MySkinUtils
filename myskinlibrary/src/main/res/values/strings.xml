@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySkinLibrary</string>
+    <string name="bg">bg_view</string>
+</resources>
